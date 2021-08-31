@@ -10,6 +10,7 @@ namespace SegundaParte
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Clspersona clsPersona = new Clspersona();
             NCLsPersona nclspersona = new NCLsPersona();
 
@@ -91,5 +92,10 @@ namespace SegundaParte
         public int Edad { get; }
         public double Peso { get; }
         public double Altura { get; }
+=======
+           
+            }
+
+>>>>>>> e0315511251c6543f463c176657532bb044a35d4
     }
 }
