@@ -10,6 +10,8 @@ namespace SegundaParte
     {
         static void Main(string[] args)
         {
-        }
+           
+            }
+
     }
 }
