@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\GitHub\2parte_Laboratorio\SegundaParte\SegundaParte\bin\Debug\SegundaParte.exe.config
+C:\Users\Usuario\Documents\GitHub\2parte_Laboratorio\SegundaParte\SegundaParte\bin\Debug\SegundaParte.exe
+C:\Users\Usuario\Documents\GitHub\2parte_Laboratorio\SegundaParte\SegundaParte\bin\Debug\SegundaParte.pdb
+C:\Users\Usuario\Documents\GitHub\2parte_Laboratorio\SegundaParte\SegundaParte\obj\Debug\SegundaParte.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\2parte_Laboratorio\SegundaParte\SegundaParte\obj\Debug\SegundaParte.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\2parte_Laboratorio\SegundaParte\SegundaParte\obj\Debug\SegundaParte.exe
+C:\Users\Usuario\Documents\GitHub\2parte_Laboratorio\SegundaParte\SegundaParte\obj\Debug\SegundaParte.pdb
